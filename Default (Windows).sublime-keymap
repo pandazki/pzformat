@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+shift+o","ctrl+shift+f"],
+        "command": "pzformat"
+    }
+]
