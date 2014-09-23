@@ -1,4 +1,4 @@
-sublime-pzformat
+PzFormat
 ================
 
 A sublime text plugin to format text.
@@ -23,4 +23,4 @@ The number of columns must be equal to the number of format string parameters.
 </pre>
 
 ## Format by [<code>super+shift+o</code>,<code>super+shift+f</code>]
-Pzformat will auto split data into lines and try to format each line.
+PzFormat will auto split data into lines and try to format each line.
