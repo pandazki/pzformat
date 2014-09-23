@@ -18,6 +18,9 @@ Format syntax example.
 
 ## Select data in sublime text
 The number of columns must be equal to the number of format string parameters.
+<pre>
+"separator": [",","，",";"] //default separators. space is implicit included
+</pre>
 
 ## Format by [<code>super+shift+o</code>,<code>super+shift+f</code>]
 Pzformat will auto split data into lines and try to format each line.

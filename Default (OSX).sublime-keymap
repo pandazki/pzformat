@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["super+shift+p","super+shift+f"],
+        "keys": ["super+shift+o","super+shift+f"],
         "command": "pzformat"
     }
 ]
