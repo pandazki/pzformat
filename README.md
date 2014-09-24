@@ -6,7 +6,7 @@ A sublime text plugin to format text.
 ![alt tag](pzformat_demo.gif)
 
 # Installation
-- Use Package Control to install(unavailable)
+- Use Package Control to install
 - Or you can download or clone directly and drop into your Sublime Text 3 packages directory
 
 # Usage
