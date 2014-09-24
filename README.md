@@ -24,3 +24,7 @@ The number of columns must be equal to the number of format string parameters.
 
 ## Format by [<code>super+shift+o</code>,<code>super+shift+f</code>]
 PzFormat will auto split data into lines and try to format each line.
+
+# Attentions
+- You can use <code>{{</code> replace <code>{</code> and <code>}}</code> replace <code>}</code> to avoid them escaped.  
+e.g. <code>string.format("{{}},{{}},{{}}", {},{},{});</code> show be format to <code>string.format("{},{},{}", value1,value2,value3);</code>
